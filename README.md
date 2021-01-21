@@ -94,9 +94,9 @@ The weather displayed will display UV Icons that will change in colour and messa
 2. ### Search History Displayed 
   * ![Search History Displayed](https://github.com/AdrianMEvans/WeatherCheck/blob/main/Assets/graphics/images/WApp%20Search%20History.png?raw=true)
 3. ### Results Displayed  
-  * ![Results Displayed](https://github.com/marcojansen-gmx/LOTR-or-Potter-Quiz/blob/main/Assets/pic/Readme%20pics/MOBI%20SUBMIT.png?raw=true)
+  * ![Results Displayed](https://github.com/AdrianMEvans/WeatherCheck/blob/main/Assets/graphics/images/WApp%20results%20displayed.png?raw=true)
 4. ### UV Icon and Mobile Display 
-  * ![UV Icon and Mobile Display](https://github.com/marcojansen-gmx/LOTR-or-Potter-Quiz/blob/main/Assets/pic/Readme%20pics/MOBI%20HIGH%20SCORES.png?raw=true)
+  * ![UV Icon and Mobile Display](https://github.com/AdrianMEvans/WeatherCheck/blob/main/Assets/graphics/images/WApp%20Mobile%20Layout.png?raw=true)
 
 
 ## Credits
