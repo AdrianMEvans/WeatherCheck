@@ -90,9 +90,9 @@ The weather displayed will display UV Icons that will change in colour and messa
 ## Some Screenshots
 
 1. ### Landing Page 
-  * ![Landing Page](https://github.com/marcojansen-gmx/LOTR-or-Potter-Quiz/blob/main/Assets/pic/Readme%20pics/MOBI%20INDEX.png?raw=true)
+  * ![Landing Page](https://github.com/AdrianMEvans/WeatherCheck/blob/main/Assets/graphics/images/Weather%20App%20Landing%20Page.png?raw=true)
 2. ### Search History Displayed 
-  * ![Search History Displayed](https://github.com/marcojansen-gmx/LOTR-or-Potter-Quiz/blob/main/Assets/pic/Readme%20pics/MOBI%20QUIZ.png?raw=true)
+  * ![Search History Displayed](https://github.com/AdrianMEvans/WeatherCheck/blob/main/Assets/graphics/images/WApp%20Search%20History.png?raw=true)
 3. ### Results Displayed  
   * ![Results Displayed](https://github.com/marcojansen-gmx/LOTR-or-Potter-Quiz/blob/main/Assets/pic/Readme%20pics/MOBI%20SUBMIT.png?raw=true)
 4. ### UV Icon and Mobile Display 
